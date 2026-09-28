@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Driver Wallet",
+    "slug": "driver-wallet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0F766E"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.driverwallet.app"
+    },
+    "android": {
+      "package": "com.driverwallet.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F766E"
+      }
+    }
+  }
+}
