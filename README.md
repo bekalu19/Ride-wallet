@@ -67,4 +67,4 @@ src/
 
 - **Add a new expense/income category:** edit `src/constants/categories.js`, then add its label in both languages in `src/i18n/translations.js` (look for keys starting with `cat_`).
 - **Add a new language:** copy the `en` block in `src/i18n/translations.js`, translate every line, and add a button for it in `src/screens/SettingsScreen.js`.
-- **Change the app colors:** the main color used everywhere is `#0F766E` (teal green). Search for it across the `src/` folder to change it.
+- **Change the app colors:** the main color used everywhere is `#0F766E` (teal green). Search for it across the `src/` folder to change it..
