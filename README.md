@@ -1,4 +1,4 @@
-# Driver Wallet
+.# Driver Wallet
 
 A simple income and expense tracker app made for ride-hailing drivers (RIDE / Feres / Yango) in Ethiopia. All data is stored only on the phone (no server, no account needed). Works in Amharic and English.
 
